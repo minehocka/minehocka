@@ -3,6 +3,7 @@
 ---
 
 <h3>About Me</h3>
+
 - 🔭 I'm currently working on Gameservers
 - 🤔 I'm currently learning Rust
 - 💼 IT specialist apprentice
@@ -13,12 +14,14 @@
 ---
 
 <h3>Socials</h3>
+
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2eVBsn87t5)
 [![TeamSpeak](https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white)](ts3server://hocker?port=9987)
 
 ---
 
 <h3>Tech Stack</h3>
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -53,6 +56,7 @@
 ---
 
 <h3>Stats</h3>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minehocka&show_icons=true&theme=dark&bg_color=00000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minehocka&layout=compact&show_icons=true&theme=dark&bg_color=00000000)
