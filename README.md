@@ -4,7 +4,7 @@ public Human() {
     this.nickname = "minezocker55";
     this.age = 19;
     this.occupation = "Trainee Application Developer";
-    this.currentlyDoing = "Working with Gameservers \uD83C\uDFAE";
+    this.currentlyDoing = "Working with Gameservers";
     this.interests = Arrays.asList("Backend", "Optimization", "Automation");
     this.email = null;
 }
