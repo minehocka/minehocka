@@ -1,27 +1,23 @@
-### Hey there! I'm Jonah 👋
+```java
+public Human() {
+    this.name = "Jonah";
+    this.nickname = "minezocker55";
+    this.age = 19;
+    this.occupation = "Trainee Application Developer";
+    this.currentlyDoing = "Working with Gameservers \uD83C\uDFAE";
+    this.interests = Arrays.asList("Backend", "Optimization", "Automation");
+    this.email = null;
+}
+```
 
----
+<details>
+  <summary>More</summary>
 
-<h3>About Me</h3>
-
-- 🔭 I'm currently working on Gameservers
-- 🤔 I'm currently learning Rust
-- 💼 IT specialist apprentice
-- 🌱 Interested in backend, security and automation
-- 🎮 Full-time Gamer
-- 🍵 I prefer tea ;)
-
----
-
-<h3>Socials</h3>
-
+## Socials
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2eVBsn87t5)
 [![TeamSpeak](https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white)](ts3server://hocker?port=9987)
 
----
-
-<h3>Tech Stack</h3>
-
+## Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -55,15 +51,4 @@
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-
----
-
-<h3>Stats</h3>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minehocka&show_icons=true&theme=dark&bg_color=00000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minehocka&layout=compact&show_icons=true&theme=dark&bg_color=00000000)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=minehocka&label=Profile%20views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+</details>
